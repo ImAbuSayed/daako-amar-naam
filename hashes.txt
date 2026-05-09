@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Daako Amar Naam
+
+This log tracks the cryptographic history and versioning for the song **Daako Amar Naam** (daako-amar-naam).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T05:42:25.769640 | `v1` | `dd4bef528a0dc7379c524a7d6895902e3be09e19613d734195a7c24c4677b332` | `ccc7f79148f50b629d57063c3ad866bf027492c8afd64be64a99ae3ade94f60c` | `2026-05-10_daako-amar-naam-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
